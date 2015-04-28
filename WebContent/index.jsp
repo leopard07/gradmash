@@ -8,11 +8,11 @@
     <link href="/favicon.ico" type="image/x-icon" rel="icon" />
     <link href="layout/favicon.ico" type="image/x-icon" rel="shortcut icon" /> 
 
-	<link rel="stylesheet" href="style/bootstrap.min.css">
-	<link rel="stylesheet" href="style/style.css">
+	<link rel="stylesheet" href="resources/style/bootstrap.min.css">
+	<link rel="stylesheet" href="resources/style/style.css">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-	<script src="scripts/bootstrap.min.js"></script>
+	<script src="resources/scripts/bootstrap.min.js"></script>
 
 <body>
 	<div class="container">
